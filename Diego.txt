@@ -1,0 +1,38 @@
+Diego, Carl Joseph B. 
+
+Importance and benefits: 
+Data science has a lot of benefits and implications in the medical field. The following are the most common implications of this technology:
+•	Facilitates drug development: Medication development takes time and extensive research.
+	However, medical data science can cut down on both time and effort. Machine learning 
+	algorithms can determine if a drug will have the intended effect on the human body by
+	using case study reports, lab test results, previous medical data, and the effects of 
+	the drugs in clinical trials.  
+•	Reduced failure in treatment: The ability to make precise predictions and prescriptions 
+	is perhaps the most crucial application of data science in healthcare for reducing 
+	treatment-related errors. Since the data scientists gather a sizable amount of 
+	information about the patient's medical history, the stored information can be used to
+	recognize illness symptoms and make a precise diagnosis. Mortality rates have significantly 
+	decreased since treatment options may now be tailored and care is given with better 
+	knowledge.  
+•	Enhanced Diagnosis and Treatment: The analysis of enormous volumes of medical data, such
+	as patient records, genetic data, and clinical trial data, is made possible by data 
+	science. Patterns and insights can be retrieved using data mining and machine learning
+	approaches, resulting in more precise diagnoses and individualized treatment programs.
+•	Patient Monitoring and Remote Healthcare: Data science supports the creation of wearable
+	devices and remote healthcare monitoring systems that continuously gather patient data.
+	Real-time analysis of this data can support proactive and remote healthcare delivery by
+	assisting in the detection of anomalies, monitoring chronic ailments, and providing 
+	individualized feedback.
+•	Disease monitoring and epidemic Prediction: Data science helps with disease monitoring 
+	and early epidemic detection by evaluating data from a variety of sources, including 
+	electronic health records, social media, and environmental sensors. Effective public
+	health interventions and containment measures are made possible by the timely detection
+	of illness patterns and trends.
+ 
+Scope of the topic
+•	This study aims to determine the advantages and good effects of Data Science in
+	industries, specifically in the field of medicine. It also highlights the potential
+	of data science to advance medical knowledge, improve patient care, and drive innovation
+	in healthcare practices. This study also describes what is big data and its implications
+	is the field of healthcare and the connection of the Hadoop ecosystem in Data Science.
+
